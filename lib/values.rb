@@ -9,7 +9,5 @@ require 'pry'
 # }
 
 def get_the_values(groceries)
-  #code your solution here!
   groceries.keys
-  binding.pry
 end
